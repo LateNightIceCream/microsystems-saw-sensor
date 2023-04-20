@@ -33,7 +33,7 @@
           '';
           installPhase = ''
             mkdir -p $out
-            cp document.pdf $out/
+            cp saw_sensor.pdf $out/
           '';
         };
       };
